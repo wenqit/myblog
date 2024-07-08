@@ -44,13 +44,3 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
-
-params:
-  ananke_socials:
-  - name: twitter
-    url: https://twitter.com/theNewDynamic
-  - name: github
-    url: https://github.com/theNewDynamic
-  - name: mastodon
-    url: https://social.example.com/@username
-    rel: me noopener
